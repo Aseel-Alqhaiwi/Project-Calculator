@@ -22,4 +22,4 @@ Welcome to the **Project Calculator**, a simple and efficient tool for performin
 
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/Aseel-Qhaiwi/Project-Calculator.git
+   git clone https://github.com/Aseel-Alqhaiwi/Project-Calculator.git
